@@ -1,6 +1,4 @@
-#include<GL/gl.h>
-#include<GL/glu.h>
-#include<GL/glut.h>
-
-void init(void){
-	glClear(
+#include<stdio.h>
+int main(){
+	printf("Subscribe to SUPER M7N");
+}
